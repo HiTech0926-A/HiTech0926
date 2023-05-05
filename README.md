@@ -1,8 +1,8 @@
 # HiTech0926
 
-[Home](https://www.hitech0926.com/)&nbsp;
-[Blog](https://blog.hitech0926.com/)&nbsp;
-[Minecraft](https://mc.hitech0926.com/)&nbsp;
+[Home](https://www.hitech0926.com/)&nbsp;&nbsp;
+[Blog](https://blog.hitech0926.com/)&nbsp;&nbsp;
+[Minecraft](https://mc.hitech0926.com/)&nbsp;&nbsp;
 [Github](https://github.com/HiTech0926)
 
 ## 关于
